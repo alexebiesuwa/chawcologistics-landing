@@ -53,7 +53,7 @@
                                  </div> Make a call:<a href="#"> Phone here...</a>
                             </div>
                             <div class="top_bar_contact_item">
-                                 <div class="top_bar_icon"><i class="fa fa-map-marker"></i></div>4789 Melmorn Ton Mashintron Town
+                                 <div class="top_bar_icon"><i class="fa fa-map-marker"></i></div>Address here...
                             </div>
                         </div>
                     </div>
